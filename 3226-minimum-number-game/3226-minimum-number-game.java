@@ -5,11 +5,11 @@ class Solution {
         for(int i:nums){
             queue.add(i);
         }
-        int j=0,t;
+        int j=0;
         while(j<nums.length-1) {
-        	t=queue.poll();
+        	
+        	num[j+1]=queue.poll();
         	num[j]=queue.poll();
-        	num[j+1]=t;
         	j+=2;
         }
         return num;
