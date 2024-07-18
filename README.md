@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0001-two-sum) |
 | [3226-minimum-number-game](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/3226-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
