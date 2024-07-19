@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3226-minimum-number-game](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
