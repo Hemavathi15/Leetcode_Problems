@@ -47,4 +47,8 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
