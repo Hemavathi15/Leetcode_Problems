@@ -9,8 +9,9 @@ class Solution {
 			}
             else{
 			profit=Math.max(profit,arr[i]-buyPrice);
-			i++;
+			
             }
+            i++;
 		}
 		return (profit);
     }
