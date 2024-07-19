@@ -6,9 +6,11 @@ class Solution {
 //			System.out.println(i);
 			if(arr[i]<buyPrice) {
 				buyPrice=arr[i];
-				continue;}
+			}
+            else{
 			profit=Math.max(profit,arr[i]-buyPrice);
 			i++;
+            }
 		}
 		return (profit);
     }
