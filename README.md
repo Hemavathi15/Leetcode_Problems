@@ -13,6 +13,7 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 | [0001-two-sum](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [3226-minimum-number-game](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
