@@ -14,6 +14,7 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 | [0042-trapping-rain-water](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [2350-find-closest-number-to-zero](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/2350-find-closest-number-to-zero) |
 | [3226-minimum-number-game](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
