@@ -39,10 +39,12 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
