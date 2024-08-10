@@ -6,6 +6,7 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
