@@ -1,25 +1,21 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public List<String> summaryRanges(int[] nums) {
-        int n = nums.length;
-        List<String> ans = new ArrayList<>();
-        if (n == 0) return ans;  // Edge case: empty array
-        
-        int start = 0;
-        
-        for (int end = 1; end <= n; end++) {
-            if (end == n || nums[end] != nums[end - 1] + 1) {
-                if (start == end - 1) {
-                    ans.add(String.valueOf(nums[start]));
-                } else {
-                    ans.add(nums[start] + "->" + nums[end - 1]);
-                }
-                start = end;  // Update start to the new range
-            }
+        List<String> r = new ArrayList<>();
+        int i = 1;
+        int rangeStart = 0;
+        for (int j=0; j<nums.length; j++) {
+            while (i < nums.length && nums[i] - nums[j] == 1) {
+                i++;
+                j++;
+            } 
+            StringBuilder interval = new StringBuilder(Integer.toString(nums[rangeStart]));
+            if (rangeStart != j) {
+                interval = interval.append("->"+Integer.toString(nums[j]));
+            } 
+            r.add(interval.toString());
+            i++;
+            rangeStart = j+1;
         }
-        
-        return ans;
+        return r; 
     }
 }
