@@ -18,6 +18,7 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 | [0228-summary-ranges](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/2350-find-closest-number-to-zero) |
 | [3226-minimum-number-game](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 | [0001-two-sum](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
