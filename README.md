@@ -19,6 +19,7 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 | [0238-product-of-array-except-self](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2350-find-closest-number-to-zero](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/2350-find-closest-number-to-zero) |
 | [3226-minimum-number-game](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Sorting
@@ -83,4 +84,8 @@ A collection of LeetCode questions to practice! - Created using [LeetHub v2](htt
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Hemavathi15/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
